@@ -1,0 +1,18 @@
+# Dataset besar
+dataset.csv
+
+# Folder cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+
+# Charts
+*.png
