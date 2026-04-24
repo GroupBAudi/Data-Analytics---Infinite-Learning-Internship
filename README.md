@@ -11,7 +11,7 @@ sebagai referensi untuk pengembangan sistem pelaporan komunitas RT/RW berbasis A
 - `data/` — Dataset final (Xfinal.csv)
 
 ## Dataset
-- **Sumber**: [Washington DC 311 Open Data](https://opendata.dc.gov/search?q=city%20works)
+- **Sumber**: https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2024/about
 - **Ukuran awal**: 1.466.152 baris × 56 kolom
 - **Dataset final (Xfinal)**: 656.836 baris × 11 kolom
 
@@ -21,3 +21,8 @@ sebagai referensi untuk pengembangan sistem pelaporan komunitas RT/RW berbasis A
 3. EDA — Univariat, Bivariat, Multivariat
 4. Visualisasi (Chart 1–9)
 5. Finalisasi → X_final.csv
+
+
+---
+
+Note: preprocess gunakan dataset ini `[Washington DC 311 Open Data](https://opendata.dc.gov/search?q=city%20works)`
