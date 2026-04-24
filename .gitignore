@@ -1,5 +1,5 @@
 # Dataset besar
-dataset.csv
+*.csv
 
 # Folder cache Python
 __pycache__/
@@ -16,3 +16,7 @@ Thumbs.db
 
 # Charts
 *.png
+
+medallion_2024_pipeline.ipynb
+
+*.json
